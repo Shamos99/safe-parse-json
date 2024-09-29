@@ -1,0 +1,18 @@
+{
+  "name": "safe-parse-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run format && tsc",
+    "format": "prettier --write src/"
+  },
+  "author": "Shahmir Humayun",
+  "license": "MIT",
+  "description": "A safe way to parse JSON with typescript support.",
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}

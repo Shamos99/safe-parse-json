@@ -1,6 +1,6 @@
 {
   "name": "safe-parse-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -23,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Shamos99/safe-parse-json"
-  }
+  },
+  "keywords": ["json", "typescript", "safe", "parse", "typesafe"]
 }
